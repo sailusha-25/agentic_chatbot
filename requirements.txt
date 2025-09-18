@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+sentence-transformers
+faiss-cpu
+pypdf
+python-pptx
+python-docx
+pandas
+langchain
+python-dotenv
